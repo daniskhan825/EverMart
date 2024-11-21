@@ -1,3 +1,3 @@
 # EverMart
 This is my first internship project
-auother danish khan
+auother danish khan [abasyn university]
